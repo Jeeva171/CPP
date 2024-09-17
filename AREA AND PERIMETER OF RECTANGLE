@@ -14,4 +14,4 @@ cout<<"area of rectangle:<<area;
 cin<<"perimeter of rectangle:<<perimeter:
 getch();
 return 0;
-]
+}
