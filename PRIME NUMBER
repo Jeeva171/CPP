@@ -13,16 +13,15 @@ clrscr();
         } 
     } 
   
-    if (n <= 1) 
-        flag = 0; 
-  
+    if (n <= 1) {
+        flag = 0;
+     }
     if (flag == 1) { 
         cout << n << " is a prime number"; 
     } 
     else { 
         cout << n << " is not a prime number"; 
     } 
-} 
 getch();
 return 0;
 }
