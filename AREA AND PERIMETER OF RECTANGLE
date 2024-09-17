@@ -11,7 +11,7 @@ cin<<b;
 area=a*b;
 perimeter=2*(l+b);
 cout<<"area of rectangle:<<area;
-cout<<"perimeter of rectangle:<<perimeter:
+cout<<"perimeter of rectangle:<<perimeter;
 getch();
 return 0;
 }
