@@ -1,0 +1,18 @@
+#include <iostream.h>
+#include<conio.h>
+int main()
+{
+clrscr():
+int a,b,temp;
+cout<<"enter the first digit";
+cin>>a;
+cout<<"enter the second digit";
+cin<<b;
+temp=a;
+a=b;
+b=temp;
+cout<<"after swap a:<<a;
+cin<<"\tafter swap b:<<b:
+getch();
+return 0;
+]
