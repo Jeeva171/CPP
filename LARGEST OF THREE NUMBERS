@@ -24,3 +24,4 @@ cout<<"c is greater";
 }
 getch();
 return 0;
+}
