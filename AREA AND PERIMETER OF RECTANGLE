@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-clrscr():
+clrscr();
 int a,b,area,peimeter;
 cout<<"enter the length";
 cin>>a;
